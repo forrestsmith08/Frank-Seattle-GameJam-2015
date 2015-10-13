@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 5e2a2989925ea47d2842b7003408310f
+timeCreated: 1444582102
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Frank sprite Wall-Hit-Die_0
+    21300002: Frank sprite Wall-Hit-Die_1
+    21300004: Frank sprite Wall-Hit-Die_2
+    21300006: Frank sprite Wall-Hit-Die_3
+    21300008: Frank sprite Wall-Hit-Die_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Frank sprite Wall-Hit-Die_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 102
+      alignment: 9
+      pivot: {x: .491103053, y: .255770594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank sprite Wall-Hit-Die_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 102
+      alignment: 9
+      pivot: {x: .482206106, y: .238325641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank sprite Wall-Hit-Die_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 102
+      alignment: 9
+      pivot: {x: .482205957, y: .220880672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank sprite Wall-Hit-Die_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 102
+      alignment: 9
+      pivot: {x: .482205808, y: .242686883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank sprite Wall-Hit-Die_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 102
+      alignment: 9
+      pivot: {x: .499999076, y: .26885432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: 50fa5108bc64ea64fb88aafb6a28c607
+timeCreated: 1444588588
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Robot--Level-Assets_0
+    21300002: Robot--Level-Assets_1
+    21300004: Robot--Level-Assets_2
+    21300006: Robot--Level-Assets_3
+    21300008: Robot--Level-Assets_4
+    21300010: Robot--Level-Assets_5
+    21300012: Robot--Level-Assets_6
+    21300014: Robot--Level-Assets_7
+    21300016: Robot--Level-Assets_8
+    21300018: Robot--Level-Assets_9
+    21300020: Robot--Level-Assets_10
+    21300022: Robot--Level-Assets_11
+    21300024: Robot--Level-Assets_12
+    21300026: Robot--Level-Assets_13
+    21300028: Robot--Level-Assets_14
+    21300030: Robot--Level-Assets_15
+    21300032: Robot--Level-Assets_16
+    21300034: Robot--Level-Assets_17
+    21300036: Robot--Level-Assets_18
+    21300038: Robot--Level-Assets_19
+    21300040: Robot--Level-Assets_20
+    21300042: Robot--Level-Assets_21
+    21300044: Robot--Level-Assets_22
+    21300046: Robot--Level-Assets_23
+    21300048: Robot--Level-Assets_24
+    21300050: Robot--Level-Assets_25
+    21300052: Robot--Level-Assets_26
+    21300054: Robot--Level-Assets_27
+    21300056: Robot--Level-Assets_28
+    21300058: Robot--Level-Assets_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Robot--Level-Assets_0
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 785
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 785
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 783
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 719
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 671
+        width: 95
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 670
+        width: 104
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_6
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 757
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 640
+        width: 97
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 567
+        width: 32
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 565
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_10
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 642
+        width: 56
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 538
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_12
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 536
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 575
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 539
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_15
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 543
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 432
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 477
+        width: 192
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_18
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 498
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 372
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_20
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 361
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 363
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 416
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_23
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 257
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 255
+        width: 128
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 314
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 265
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 194
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_28
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 193
+        width: 144
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Robot--Level-Assets_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 16
+        width: 332
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

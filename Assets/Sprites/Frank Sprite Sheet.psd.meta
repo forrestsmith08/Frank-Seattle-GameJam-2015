@@ -1,0 +1,221 @@
+fileFormatVersion: 2
+guid: b9bbb4303c58a4816a71c3a1ca262a34
+timeCreated: 1444577336
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Frank Sprite Sheet_0
+    21300002: Frank Sprite Sheet_1
+    21300004: Frank Sprite Sheet_2
+    21300006: Frank Sprite Sheet_3
+    21300008: Frank Sprite Sheet_4
+    21300010: Frank Sprite Sheet_5
+    21300012: Frank Sprite Sheet_6
+    21300014: Frank Sprite Sheet_7
+    21300016: Frank Sprite Sheet_8
+    21300018: Frank Sprite Sheet_9
+    21300020: Frank Sprite Sheet_10
+    21300022: Frank Sprite Sheet_11
+    21300024: Frank Sprite Sheet_12
+    21300026: Frank Sprite Sheet_13
+    21300028: Frank Sprite Sheet_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Frank Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 203
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 203
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 203
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 203
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 203
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 136
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 146
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 137
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 102
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 102
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 45
+        height: 47
+      alignment: 9
+      pivot: {x: .613830507, y: .499999881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 85
+        height: 47
+      alignment: 9
+      pivot: {x: .188640103, y: .472753227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 73
+        height: 47
+      alignment: 9
+      pivot: {x: .213474646, y: .481835425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1
+        width: 41
+        height: 47
+      alignment: 9
+      pivot: {x: .51041168, y: .499999881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frank Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
